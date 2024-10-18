@@ -34,7 +34,7 @@ Este script está diseñado para sistemas operativos Windows, ya que utiliza el 
 1. Ejecuta el script en la consola:
 
     ```bash
-    python tu_script.py
+    python verificador.py
     ```
 
 2. Proporciona la siguiente información cuando se te solicite:
