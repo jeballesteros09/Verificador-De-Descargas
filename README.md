@@ -61,9 +61,11 @@ Este script está diseñado para sistemas operativos Windows, ya que utiliza el 
 ## Advertencia
 
 Este script funciona únicamente en entornos Windows. Si se utiliza en otro sistema operativo, se deben modificar los comandos que calculan el hash del archivo.
-Contribuciones
+
+## Contribuciones
 
 Las contribuciones son bienvenidas. Si encuentras algún error o deseas mejorar el script, siéntete libre de enviar un Pull Request.
-Licencia
+
+## Licencia
 
 Este proyecto está bajo la licencia MIT. Puedes consultar los detalles en el archivo LICENSE.
